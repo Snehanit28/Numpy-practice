@@ -28,6 +28,6 @@ print(arr[[0,3,5]])  # => [10 40 60]
 
 
 
-# BOLLEAN MASKING or FILTERING
+# BOOLEAN MASKING or FILTERING
 
 print(arr[arr<25]) # => [10 20] prints the numers which are less than 25 in the array
