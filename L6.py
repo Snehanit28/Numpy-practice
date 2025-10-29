@@ -1,6 +1,6 @@
 import numpy as np 
 
-# np.insert(array,index,value,axis=none) 
+# np.insert(array,index,value,axis=none)
 
 arr = np.array([10,20,30,40,50])
 new_arr = np.insert(arr,2,100)
