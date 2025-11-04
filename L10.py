@@ -11,5 +11,5 @@ print(np.isnan(arr))    # => [False False  True False  True False]
 
 # np.nan_to_num(array, nan = value)
 
-cleaned_arr = np.nan_to_num(arr, nan = 3)   
+cleaned_arr = np.nan_to_num(arr, nan = 3)    
 print(cleaned_arr)      # => [1. 2. 3. 4. 3. 6.]
