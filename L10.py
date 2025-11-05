@@ -1,4 +1,4 @@
-# Build in function 1
+# Built in function 1
 
 import numpy as np
 arr = np.array([1, 2, np.nan, 4, np.nan, 6])
